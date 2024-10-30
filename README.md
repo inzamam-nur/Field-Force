@@ -4,11 +4,11 @@ This is a Background LocationTracking & TicketSolving Application
 Admin Can See Employee Activities And Employees can be solved there MIS & RSM Ticket 
 
 # Features : 
-Field employees can receive tickets directly assigned to them for efficient task management.
-Notifications alert them when new tickets are assigned, ensuring timely responses.
-They can close tickets once issues are resolved, streamlining the workflow.
-Tickets can be forwarded to other team members when additional assistance is required.
-The platform allows tracking of field employees' locations for improved coordination and accountability.
+- Field employees can receive tickets directly assigned to them for efficient task management.
+- Notifications alert them when new tickets are assigned, ensuring timely responses.
+- They can close tickets once issues are resolved, streamlining the workflow.
+- Tickets can be forwarded to other team members when additional assistance is required.
+- The platform allows tracking of field employees' locations for improved coordination and accountability.
 
 ## Getting Started
 - Using GetX
